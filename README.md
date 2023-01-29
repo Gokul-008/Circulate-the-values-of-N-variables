@@ -31,6 +31,7 @@ def circulate():
 ```
 
 ## Output:
-![output](./circulate.png)
+![circulate N vriables](https://user-images.githubusercontent.com/121165996/215305453-fc2b03f2-9f17-413c-88a9-333a0115955f.png)
+
 
 ## Result:
